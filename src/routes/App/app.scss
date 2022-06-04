@@ -1,0 +1,14 @@
+@import '../../scss/variables';
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.6rem;
+  min-height: 100vh;
+  max-width: 100vw;
+  position: relative;
+}
+
+.app-header {
+  margin: 0.5rem 0 2rem;
+}
